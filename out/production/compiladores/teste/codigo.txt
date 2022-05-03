@@ -1,0 +1,16 @@
+:DECLARACAO
+    int var1
+    float var2
+    int var2
+    string var3
+    string var4
+:ALGORITMO
+    ATRIBUIR var1 A var2
+    ATRIBUIR 2 A var1
+    ATRIBUIR 1,5 A var2
+    ATRIBUIR var1 + var2 A var1
+    ATRIBUIR "isso é uma string" A var1
+    ATRIBUIR 4,1 A var4
+    ATRIBUIR var2 > 5 A var4
+    ATRIBUIR 1 + var2 A var2
+    ATRIBUIR 1,2 + var1 + 5 + var2 + var3 + vaisdjias A var5
